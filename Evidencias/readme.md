@@ -1,2 +1,2 @@
 # Introdução
-> UUtilizamos o serviço DHCP do roteador para distribuir automaticamente os endereços IP aos dispositivos da rede. O roteador também forneceu a máscara de sub-rede e o gateway padrão, facilitando a configuração dos equipamentos e evitando conflitos de endereçamento entre os clientes DHCP.
+> Utilizamos o serviço DHCP do roteador para distribuir automaticamente os endereços IP aos dispositivos da rede. O roteador também forneceu a máscara de sub-rede e o gateway padrão, facilitando a configuração dos equipamentos e evitando conflitos de endereçamento entre os clientes DHCP.
